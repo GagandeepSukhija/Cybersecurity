@@ -68,3 +68,15 @@ https://tryhackme.com/room/windowslocalpersistence
 	- Collecting and exfiltrating sensitive data
 	- Deleting backups and shadow copies (MS’s tech that creates backup copies, snapshots of files and volumes)
 	- Overwrite or corrupt data
+
+
+# Note:
+CISA recommends to use the Unified Kill Chain in conjunction with MITRE ATT&CK. Furthermore, the Kill Chain doesn’t cover insider threats using their authorised access to harm the organisation.
+
+Unified Kill Chain:
+https://unifiedkillchain.com/
+
+# Target Case Study:
+19/12/2013, Target released a statement confirming the breach, stating that approx. 40M credit and debit card accounts were impacted between 27/11/2013-15/12/2013. Target had to pay a fine of $18.5M under the terms of the multistate settlement agreement. 
+
+
