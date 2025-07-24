@@ -11,10 +11,10 @@
             "id": "70bcd5f903b402c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -156,8 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39d5a0750b8e550b",
+  "active": "70bcd5f903b402c1",
   "lastOpenFiles": [
+    "🗂️ - Notes/Active Directory.md",
+    "📥 - Inbox/Adversary Customer.md",
+    "📥 - Inbox/Active Directory.md",
     "🗂️ - Notes"
   ]
 }
