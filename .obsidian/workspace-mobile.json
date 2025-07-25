@@ -11,10 +11,14 @@
             "id": "70bcd5f903b402c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "📥 - Inbox/Threat Intelligence Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Threat Intelligence Tools"
             }
           }
         ]
@@ -82,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "092591cbcdd79b62",
@@ -158,6 +162,21 @@
   },
   "active": "70bcd5f903b402c1",
   "lastOpenFiles": [
+    "📥 - Inbox/Threat Fox.md",
+    "📥 - Inbox/Threat Intelligence Tools.md",
+    "📥 - Inbox/URL Haus.md",
+    "📥 - Inbox/SSL Blacklist.md",
+    "📥 - Inbox/Feodo Tracker.md",
+    "📥 - Inbox/Malware Bazaar.md",
+    "🗂️ - Notes/Threat Intelligence.md",
+    "📥 - Inbox/Threat Intelligence Classifications.md",
+    "📥 - Inbox/TAXII.md",
+    "📥 - Inbox/CTI Standards & Frameworks.md",
+    "📥 - Inbox/STIX.md",
+    "📥 - Inbox/CTI Lifecycle.md",
+    "📥 - Inbox/SIEMs.md",
+    "🖇️ - Attachments/Pasted image 20250724123400.png",
+    "🗂️ - Notes/CTID.md",
     "🗂️ - Notes/Active Directory.md",
     "📥 - Inbox/Adversary Customer.md",
     "📥 - Inbox/Active Directory.md",
