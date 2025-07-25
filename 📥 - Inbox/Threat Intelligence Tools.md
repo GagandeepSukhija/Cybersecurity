@@ -10,3 +10,5 @@ Abuse.ch - Hosted by Institute for Cybersecurity and Engineering at the Bern Uni
 - [[SSL Blacklist]] - Collects and provides a blocklist for malicious SSL certs and JA3/JA3s fingerprints.
 - [[URL Haus]] - Shares malware distribution sites.
 - [[Threat Fox]] - Shares [[IOC]]s.
+- [[PhishTool]]
+- [[Cisco Talos Intelligence]]

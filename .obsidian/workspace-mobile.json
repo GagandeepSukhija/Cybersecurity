@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📥 - Inbox/Threat Intelligence Tools.md",
+                "file": "📥 - Inbox/Cisco Talos Intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Threat Intelligence Tools"
+              "title": "Cisco Talos Intelligence"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "talos",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -162,8 +162,15 @@
   },
   "active": "70bcd5f903b402c1",
   "lastOpenFiles": [
-    "📥 - Inbox/Threat Fox.md",
+    "🗂️ - Notes/Checking IPs.md",
+    "📥 - Inbox/Cisco Talos Intelligence.md",
     "📥 - Inbox/Threat Intelligence Tools.md",
+    "📥 - Inbox/PhishTool.md",
+    "🗂️ - Notes/DNS Record Types.md",
+    "📥 - Inbox/DMARC.md",
+    "📥 - Inbox/SPF.md",
+    "📥 - Inbox/DKIM.md",
+    "📥 - Inbox/Threat Fox.md",
     "📥 - Inbox/URL Haus.md",
     "📥 - Inbox/SSL Blacklist.md",
     "📥 - Inbox/Feodo Tracker.md",
